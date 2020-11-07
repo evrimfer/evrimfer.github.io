@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year PhD student at Genetics Graduate Interdisciplinary Program at University of Arizona. My research interests are origin of life and molecular evolution of organisms. I am studying evolution of translation machinery using computational analysis. 
+I am a first year PhD student at Genetics Graduate Interdisciplinary Program at University of Arizona. My research interests are origin of life and molecular evolution of translation machinery. I am studying evolution of translation factors using computational analysis. 
