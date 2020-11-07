@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 2"
+title: "DjangoGirls Ankara Mentor 2017"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+permalink: /teaching/2017-11-04-DjangoGirls Ankara Mentor
+venue: "Hacettepe University"
+date: 2017-11-04
+location: "Ankara, Turkey"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Mentored at one-day workshop to teach basic coding skills with Python and construction of blog using Django. 
+These workshops are important to introduce programming to women who coming from various expertise and different fields except computer sciences.
+More info: https://djangogirls.org/
