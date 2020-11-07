@@ -2,7 +2,7 @@
 title: "DjangoGirls Ankara Mentor"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2018-DjangoGirls Ankara
+permalink: /teaching/2018-11-04-DjangoGirls Ankara Mentor
 venue: "Middle East Technical University, Department of Computer Sciences"
 date: 2018-11-04
 location: "Ankara, Turkey"
