@@ -34,7 +34,9 @@ Skills
 
 Publications
 ======
-  <ul>https://academic.oup.com/gbe/article/9/12/3516/4540916</ul>
+   <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+   {% endfor %}</ul>
   
   
 Teaching
