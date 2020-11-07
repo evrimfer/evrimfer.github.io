@@ -5,7 +5,7 @@ permalink: /publication/2018-07-06-Broad interests reap benefits for science
 date: 2018-07-06
 venue: 'Science'
 paperurl: 'https://science.sciencemag.org/content/361/6397/24.full'
-citation: 'Adamowicz BM,...,Fer E,... (2018). &quot;Broad interests reap benefits for science.&quot; <i>Science</i>. 361(6397).'
+citation: 'Adamowicz BM, ..., Fer E, ... (2018). &quot;Broad interests reap benefits for science.&quot; <i>Science</i>. 361(6397).'
 ---
 Non-research related paper
 
