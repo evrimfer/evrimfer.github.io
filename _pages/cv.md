@@ -35,7 +35,7 @@ Skills
 Publications
 ======
   <ul>{% for post in site.publications %}
-    {%  %}
+    {% Variation and Functional Impact of Neanderthal Ancestry in Western Asia  %}
   {% endfor %}</ul>
   
   
