@@ -35,7 +35,7 @@ Skills
 Publications
 ======
   <ul>{% for post in site.publications %}
-    {% https://academic.oup.com/gbe/article/9/12/3516/4540916 %}
+    {%  %}
   {% endfor %}</ul>
   
   
