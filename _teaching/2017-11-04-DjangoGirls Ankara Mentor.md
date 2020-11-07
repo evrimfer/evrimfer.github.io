@@ -1,5 +1,5 @@
 ---
-title: "DjangoGirls Ankara Mentor 2017"
+title: "DjangoGirls Ankara Mentor, 2017"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2017-11-04-DjangoGirls Ankara Mentor
