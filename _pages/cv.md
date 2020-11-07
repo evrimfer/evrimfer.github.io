@@ -11,42 +11,33 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. Department of Molecular Biology and Genetics, Istanbul Technical University, Istanbul, Turkey, 2016
+* M.S. Department of Bioinformatics, Informatics Insitute, Middle East Technical University, Ankara, Turkey, 2019
+* Ph.D Genetics GIDP, University of Arizona, Tucson, Arizona, USA (present)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* August-December 2019: Research Scholar
+  * Department of Molecular and Cellular Biology University of Arizona
+  * Phylogeny construction for translation factors
+  * Supervisor: Dr. Betül Kaçar
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Bioinformatics
+  * Programming: Python, R
+  * Operating systems: Linux/Unix, Unix clusters, MacOS
+* Population Genetics and ancient DNA analysis
+  * SNP calling, PMD score analysis, mitochondrial and X-chromsome contamination control, FST and PBS analysis for selection
+* Phylogenetics
+  * IQTREE, RAxML, PAML
 
 Publications
 ======
   <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
+    {% https://academic.oup.com/gbe/article/9/12/3516/4540916 %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
 Teaching
 ======
