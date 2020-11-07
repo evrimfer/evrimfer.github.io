@@ -13,9 +13,3 @@ These workshops are important to introduce programming to women who coming from 
 More info: https://djangogirls.org/
 
 
-
-
-
-Assistant/Organizer, Workshop on Population Genetics with R, 2018
-Department of Biological Sciences
-Teaching principles of evolutionary biology and practice of population genetics simulations using R.
